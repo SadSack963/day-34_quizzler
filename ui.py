@@ -59,7 +59,8 @@ class QuizInterface():
 
         # self.canvas.itemconfig(self.text_question, text=question)
 
+    def check_answer(self):
+        pass
+
         # self.score = 0
         # self.score_text = str(self.score)
-
-
